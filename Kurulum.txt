@@ -2,4 +2,4 @@
 
 - Tüm dosyaları module/addons dizinine yükleyiniz.
 - WHMCS Admin Panelinde Kurulum > İlave Modüller > Whois modulünü aktif edip kaydediniz.
-- Modülümüz otomatik olarak aktif olup mevcut primary navbar üzerinde link oluşturacaktır.
+- Modülümüz otomatik olarak aktif olup mevcut primary navbar üzerinde link oluşturacaktır. 
